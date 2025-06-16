@@ -1,6 +1,16 @@
 # Guardian
 A simple space game made collaboratively using a custom built game engine.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="images/Guardian1.jpg" width="45%" />
+  <img src="images/Guardian2.jpg" width="45%" />
+</p>
+<p align="center">
+  <img src="images/Guardian3.jpg" width="45%" />
+  <img src="images/Guardian4.jpg" width="45%" />
+</p>
 
 ## 🎮 Play the Game
 
