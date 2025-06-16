@@ -4,7 +4,7 @@ A simple space game made collaboratively using a custom built game engine.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/Guardian1.jpg" width="45%" />
+  <img src="images/Guardian.jpg" width="45%" />
   <img src="images/Guardian2.jpg" width="45%" />
 </p>
 <p align="center">
