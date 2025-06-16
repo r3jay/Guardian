@@ -18,6 +18,7 @@ As one of the core programmers, I was responsible for **everything related to th
 - Handling **collision detection and response**
 - Creating **keyboard input mappings** for movement and combat
 - Tuning gameplay feel and response to player actions
+- AI Enemy behavior adjustments
 
 My code interfaced directly with our engine’s custom input and physics subsystems.
 
@@ -63,3 +64,10 @@ After downloading, unzip the folder and inside the bin folder run `ExampleSpaceG
 ## 🙌 Credits
 
 Developed by a student team at Full Sail University.
+
+Joshua Bray
+Wyatt Moore
+Gwilym Hernandez
+Andres Gutierrez
+Ricardo Rodriguez
+
