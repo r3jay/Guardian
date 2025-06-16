@@ -53,7 +53,7 @@ My code interfaced directly with our engine’s custom input and physics subsyst
   </a>
 </p>
 
-## 🎮 Play the Game
+## Play the Game
 
 You can download and play the final build of **Guardian** here:
 
@@ -61,7 +61,7 @@ You can download and play the final build of **Guardian** here:
 
 After downloading, unzip the folder and inside the bin folder run `ExampleSpaceGame.exe`. No installation required.
 
-## 🙌 Credits
+## Credits
 
 Developed by a student team at Full Sail University.
 
