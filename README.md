@@ -65,9 +65,9 @@ After downloading, unzip the folder and inside the bin folder run `ExampleSpaceG
 
 Developed by a student team at Full Sail University.
 
-Joshua Bray
-Wyatt Moore
-Gwilym Hernandez
-Andres Gutierrez
-Ricardo Rodriguez
+- Joshua Bray
+- Wyatt Moore
+- Gwilym Hernandez
+- Andres Gutierrez
+- Ricardo Rodriguez
 
